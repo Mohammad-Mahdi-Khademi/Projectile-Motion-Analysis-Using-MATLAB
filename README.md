@@ -82,7 +82,7 @@ Vy(t) = Vy0 - g t
 
 ## 📂 Repository Structure
 
-├── MKATLAB/ # MATLAB functions and scripts (dSdt.m, get_distance.m, main.m)
+├── MATLAB/ # MATLAB functions and scripts (dSdt.m, get_distance.m, main.m)
 
 ├── images/ # Simulation plots (x-y, y-t, x-t, v-t, range vs. angle)
 
